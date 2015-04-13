@@ -1,0 +1,15 @@
+.\systick.o: ..\HARDWARE\Systick\SysTick.C
+.\systick.o: ..\HARDWARE\Systick\SysTick.h
+.\systick.o: ..\USER\stm32f10x.h
+.\systick.o: ..\CORE\core_cm3.h
+.\systick.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\systick.o: ..\USER\system_stm32f10x.h
+.\systick.o: ..\USER\stm32f10x_conf.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\systick.o: ..\USER\stm32f10x.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\systick.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\systick.o: ..\STM32F10x_FWLib\inc\misc.h

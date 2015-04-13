@@ -1,0 +1,17 @@
+.\ld3320.o: ..\HARDWARE\LD3320\LD3320.c
+.\ld3320.o: ..\HARDWARE\LD3320\LD3320.h
+.\ld3320.o: ..\USER\stm32f10x.h
+.\ld3320.o: ..\CORE\core_cm3.h
+.\ld3320.o: d:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ld3320.o: ..\USER\system_stm32f10x.h
+.\ld3320.o: ..\USER\stm32f10x_conf.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+.\ld3320.o: ..\USER\stm32f10x.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\ld3320.o: ..\STM32F10x_FWLib\inc\misc.h
+.\ld3320.o: d:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\ld3320.o: ..\HARDWARE\LD3320\LD3320_config.h
